@@ -2,7 +2,7 @@
 
 Cube Dodger is an exciting and fully functional 3D game built in Unity using C#. In this game, players must navigate a cube through a series of increasingly challenging levels filled with obstacles. Using precise keyboard controls, players must dodge obstacles that come their way, testing their reflexes and timing.
 
-🕹️ Gameplay
+## 🕹️ Gameplay
 
 Objective: Guide your cube through various levels, avoiding obstacles that appear in your path. The goal is to survive as long as possible and advance through multiple levels of increasing difficulty.
 Controls: Use the arrow keys or A and D to move the cube left and right. The challenge lies in reacting quickly to the obstacles and finding the safest path.
@@ -10,7 +10,7 @@ Levels: The game features multiple levels, each with a unique set of obstacles .
 User Interface: A clean and intuitive UI helps players track their progress.
 
 
-🎨 Features
+## 🎨 Features
 
 Custom 3D Models: The game uses custom-designed 3D models to create a visually appealing environment and obstacles.
 
